@@ -26,3 +26,8 @@ Thumbs.db
 charts/
 dashboard_data.json
 Pivoted_AQI_Dataset.csv
+
+# Large data files (re-generate with scripts)
+cpcb_data/
+merged_data.csv
+ml_ready_dataset.csv
